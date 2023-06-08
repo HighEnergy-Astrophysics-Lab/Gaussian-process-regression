@@ -1,5 +1,5 @@
 # Gaussian-process-regression
-(attached notebook deals with "Application of GPR on yearly averaged sunspot prediction")	Change the file_path to your local system's file path.
+(attached notebook deals with "Application of GPR on yearly averaged sunspot prediction")	  Change the file_path to your local system's file path.
 
 
 
