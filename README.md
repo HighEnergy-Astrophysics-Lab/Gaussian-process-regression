@@ -5,7 +5,6 @@ Change the file_path to your local system's file path.
 
 
 
-
 # some useful resources for GPR : 
 #1 https://scikit-learn.org/stable/modules/gaussian_process.html                              :   FOR GPR SCIKIT LEARN CODE
 #2 https://www.dominodatalab.com/blog/fitting-gaussian-process-models-python                  :   FOR BUILDING GPR CODE FROM SCRATCH 
